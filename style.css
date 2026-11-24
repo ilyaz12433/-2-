@@ -1,0 +1,122 @@
+*{
+    height: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text_hed{
+    color: #72727E;
+    margin-top: 22px;
+}
+
+h2{
+    color: #141B41;
+    margin-top: 50px;
+}
+
+.header{
+    text-align: center;
+}
+
+ .Document{
+    background-color:white  ;
+    height: 210px;
+    width: 200px;
+    border-radius:10px ;
+    color: #141B41;
+}
+    
+.Document img{
+    background-color: #F7F8FD;
+height: 36px;
+width: 36px;
+border-radius: 6px;
+margin-left: 81px;
+}
+
+.calendar{
+    background-color:white  ;
+    height: 210px;
+    width: 200px;
+    border-radius:10px ;
+    color: #141B41;
+}
+    
+.calendar img{
+    background-color: #F7F8FD;
+height: 36px;
+width: 36px;
+border-radius: 6px;
+margin-left: 81px;
+}
+
+.chat{
+    background-color:white  ;
+    height: 210px;
+    width: 200px;
+    border-radius:10px ;
+    color: #141B41;
+}
+    
+.chat img{
+    background-color: #F7F8FD;
+height: 36px;
+width: 36px;
+border-radius: 6px;
+margin-left: 81px;
+}
+
+.star{
+    background-color:white  ;
+    height: 210px;
+    width: 200px;
+    border-radius:10px ;
+    color: #141B41;
+}
+    
+.star img{
+    background-color: #F7F8FD;
+height: 36px;
+width: 36px;
+border-radius: 6px;
+margin-left: 81px;
+}
+
+.wallet{
+    background-color:white  ;
+    height: 210px;
+    width: 200px;
+    border-radius:10px ;
+    color: #141B41;
+}
+    
+.wallet img{
+    background-color: #F7F8FD;
+height: 36px;
+width: 36px;
+border-radius: 6px;
+margin-left: 81px;
+}
+
+.cculki {
+    height: 1170px;
+    width: 438px;
+    background-color: #fff;
+}
+
+.cculki img{
+ 
+}
+
+p{
+margin-left: 44px;
+}
+
+.main{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    gap: 30px;
+    margin-top: 255px;
+}
+
